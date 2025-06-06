@@ -39,7 +39,7 @@ This is the first in a growing series of mini front-end builds. I will continue 
 
 ## 🔗 Live Demo
 
-(Coming soon...)
+(https://bennyblvck.github.io/Half-Scribbled-Truths/)
 
 ## 🖋️ Author
 
