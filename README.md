@@ -1,4 +1,4 @@
-# ✍🏾 Half Scribbled Thoughts – Landing Page Project
+# ✍🏾 Half Scribbled Truths – Landing Page Project
 
 A simple, clean, and responsive landing page designed as part of my journey to relearn and sharpen my full stack web development skills after almost a 2-year break. This project is both a memory refresher and a creative exercise tied to my personal blog **Half Scribbled Thoughts**, where I share poetry, short stories, and written reflections.
 
